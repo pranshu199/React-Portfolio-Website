@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/React-Portfolio-Website/static/css/main.a8f5f2ad.css",
-    "main.js": "/React-Portfolio-Website/static/js/main.6d3fd748.js",
+    "main.js": "/React-Portfolio-Website/static/js/main.60014a9e.js",
     "static/media/resume.pdf": "/React-Portfolio-Website/static/media/resume.ca4e14132e0f1639c964.pdf",
     "static/media/messenger.png": "/React-Portfolio-Website/static/media/messenger.552b78849e098e4c47c0.png",
     "static/media/ApiSearch.png": "/React-Portfolio-Website/static/media/ApiSearch.6c83fe4ef91b40152f6d.png",
-    "static/media/workImg.jpeg": "/React-Portfolio-Website/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/portfolio.png": "/React-Portfolio-Website/static/media/portfolio.93b87a8e35beeafd1630.png",
     "static/media/react.png": "/React-Portfolio-Website/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/React-Portfolio-Website/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/React-Portfolio-Website/static/media/mongo.2a1528ddc31d4ce8518d.png",
@@ -17,10 +17,10 @@
     "static/media/javascript.png": "/React-Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Portfolio-Website/index.html",
     "main.a8f5f2ad.css.map": "/React-Portfolio-Website/static/css/main.a8f5f2ad.css.map",
-    "main.6d3fd748.js.map": "/React-Portfolio-Website/static/js/main.6d3fd748.js.map"
+    "main.60014a9e.js.map": "/React-Portfolio-Website/static/js/main.60014a9e.js.map"
   },
   "entrypoints": [
     "static/css/main.a8f5f2ad.css",
-    "static/js/main.6d3fd748.js"
+    "static/js/main.60014a9e.js"
   ]
 }
