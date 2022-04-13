@@ -1,2 +1,2 @@
 
-This is my Personal React Portfolio Website. :)
+This is my Personal React Portfolio Website. 
