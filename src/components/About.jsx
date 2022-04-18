@@ -17,7 +17,7 @@ const About = () => {
               <p> Nice to meet you.<br/> Please take a look around.</p>
             </div>
             <div>
-              <p>Innovative Front End Developer with 2 years of experience building and 
+              <p>Creative Front End Developer with 2 years of experience building and 
                   maintaining responsive websites. Proficient in ReactJS, JavaScript, 
                   MaterialUI, NodeJS and Htmls, CSS plus modern libraries and frameworks. </p>  
             </div>
