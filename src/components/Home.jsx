@@ -1,7 +1,7 @@
 import React from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
 import { Link } from 'react-scroll';
-import Resume from '../assets/resume.pdf';
+import Resume from '../assets/Pranshu-Resume.docx';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 
 const Home = () => {
@@ -27,6 +27,7 @@ const Home = () => {
             <span className='group-hover:rotate-90 duration-300'>
               <HiArrowNarrowRight className='ml-3 ' />
             </span>
+            
           </button>
           <a  href={Resume} download className='text-white group border-2 px-6 py-3 my-2 mx-5 flex items-center md:hidden hover:bg-pink-600 bg-[rgb(122,41,112)] '>
             Resume <BsFillPersonLinesFill size={30} />

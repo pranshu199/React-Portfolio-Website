@@ -96,11 +96,11 @@ const Work = () => {
                 Job Tracker App
               </span>
               <div className='pt-8 text-center'>
-                {/* <a href='/'>
+                <a href='/https://www.jobify.live/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
-                </a> */}
+                </a>
                 <a href='https://github.com/pranshu199/JobsApp/tree/main'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
