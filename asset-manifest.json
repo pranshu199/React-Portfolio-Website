@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio-Website/static/css/main.bbc29947.css",
-    "main.js": "/React-Portfolio-Website/static/js/main.9ee7ad18.js",
+    "main.js": "/React-Portfolio-Website/static/js/main.62f87328.js",
+    "static/media/ErpBuddies.png": "/React-Portfolio-Website/static/media/ErpBuddies.23b6c93896655d8d7fa4.png",
     "static/media/messenger.png": "/React-Portfolio-Website/static/media/messenger.552b78849e098e4c47c0.png",
     "static/media/ApiSearch.png": "/React-Portfolio-Website/static/media/ApiSearch.6c83fe4ef91b40152f6d.png",
     "static/media/portfolio.png": "/React-Portfolio-Website/static/media/portfolio.93b87a8e35beeafd1630.png",
@@ -19,10 +20,10 @@
     "static/media/javascript.png": "/React-Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Portfolio-Website/index.html",
     "main.bbc29947.css.map": "/React-Portfolio-Website/static/css/main.bbc29947.css.map",
-    "main.9ee7ad18.js.map": "/React-Portfolio-Website/static/js/main.9ee7ad18.js.map"
+    "main.62f87328.js.map": "/React-Portfolio-Website/static/js/main.62f87328.js.map"
   },
   "entrypoints": [
     "static/css/main.bbc29947.css",
-    "static/js/main.9ee7ad18.js"
+    "static/js/main.62f87328.js"
   ]
 }
