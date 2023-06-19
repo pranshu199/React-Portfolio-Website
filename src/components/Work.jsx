@@ -3,7 +3,8 @@ import Messenger from '../assets/messenger.png';
 import ApiSearch from '../assets/ApiSearch.png';
 import Portfolio from '../assets/portfolio.png';
 import Jobify from '../assets/jobify.png';
-import RecipeFinder from '../assets/recipeFinder.png'
+import RecipeFinder from '../assets/recipeFinder.png';
+import ErpBuddies from '../assets/ErpBuddies.png';
 
 
 const Work = () => {
@@ -132,7 +133,6 @@ const Work = () => {
               </div>
             </div>
           </div>
-          
         </div>
       </div>
     </div>
