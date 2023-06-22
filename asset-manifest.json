@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio-Website/static/css/main.bbc29947.css",
-    "main.js": "/React-Portfolio-Website/static/js/main.7a56e6cc.js",
-    "static/media/ErpBuddies.png": "/React-Portfolio-Website/static/media/ErpBuddies.23b6c93896655d8d7fa4.png",
+    "main.js": "/React-Portfolio-Website/static/js/main.a6b752a6.js",
+    "static/media/prompAi.png": "/React-Portfolio-Website/static/media/prompAi.4f2005484eaff67e466e.png",
     "static/media/messenger.png": "/React-Portfolio-Website/static/media/messenger.552b78849e098e4c47c0.png",
     "static/media/PranshuSharma_Resume.docx": "/React-Portfolio-Website/static/media/PranshuSharma_Resume.e148155ccbdc4b8cb213.docx",
     "static/media/ApiSearch.png": "/React-Portfolio-Website/static/media/ApiSearch.6c83fe4ef91b40152f6d.png",
@@ -19,10 +19,10 @@
     "static/media/javascript.png": "/React-Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Portfolio-Website/index.html",
     "main.bbc29947.css.map": "/React-Portfolio-Website/static/css/main.bbc29947.css.map",
-    "main.7a56e6cc.js.map": "/React-Portfolio-Website/static/js/main.7a56e6cc.js.map"
+    "main.a6b752a6.js.map": "/React-Portfolio-Website/static/js/main.a6b752a6.js.map"
   },
   "entrypoints": [
     "static/css/main.bbc29947.css",
-    "static/js/main.7a56e6cc.js"
+    "static/js/main.a6b752a6.js"
   ]
 }
