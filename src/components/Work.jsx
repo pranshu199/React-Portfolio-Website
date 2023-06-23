@@ -29,7 +29,7 @@ const Work = () => {
                 Prompts for AI
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://project-promp-3mt5qvn1g-pranshu199.vercel.app/'>
+                <a href='https://project-promp-ai-pranshu199.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
