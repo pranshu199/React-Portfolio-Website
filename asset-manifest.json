@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/React-Portfolio-Website/static/css/main.bbc29947.css",
-    "main.js": "/React-Portfolio-Website/static/js/main.93afe522.js",
+    "main.js": "/React-Portfolio-Website/static/js/main.c5c9237b.js",
     "static/media/prompAi.png": "/React-Portfolio-Website/static/media/prompAi.4f2005484eaff67e466e.png",
     "static/media/messenger.png": "/React-Portfolio-Website/static/media/messenger.552b78849e098e4c47c0.png",
+    "static/media/ResumeBooster.png": "/React-Portfolio-Website/static/media/ResumeBooster.a74a808df7168342992b.png",
     "static/media/PranshuSharma_Resume.docx": "/React-Portfolio-Website/static/media/PranshuSharma_Resume.e148155ccbdc4b8cb213.docx",
-    "static/media/ApiSearch.png": "/React-Portfolio-Website/static/media/ApiSearch.6c83fe4ef91b40152f6d.png",
     "static/media/portfolio.png": "/React-Portfolio-Website/static/media/portfolio.93b87a8e35beeafd1630.png",
     "static/media/jobify.png": "/React-Portfolio-Website/static/media/jobify.fa4d925180082e309b1c.png",
     "static/media/recipeFinder.png": "/React-Portfolio-Website/static/media/recipeFinder.3078c7a2701d8f975d20.png",
@@ -19,10 +19,10 @@
     "static/media/javascript.png": "/React-Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Portfolio-Website/index.html",
     "main.bbc29947.css.map": "/React-Portfolio-Website/static/css/main.bbc29947.css.map",
-    "main.93afe522.js.map": "/React-Portfolio-Website/static/js/main.93afe522.js.map"
+    "main.c5c9237b.js.map": "/React-Portfolio-Website/static/js/main.c5c9237b.js.map"
   },
   "entrypoints": [
     "static/css/main.bbc29947.css",
-    "static/js/main.93afe522.js"
+    "static/js/main.c5c9237b.js"
   ]
 }
